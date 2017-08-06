@@ -1,0 +1,6 @@
+C:\Users\GMRInstructor\git\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe.config
+C:\Users\GMRInstructor\git\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+C:\Users\GMRInstructor\git\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+C:\Users\GMRInstructor\git\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\GMRInstructor\git\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+C:\Users\GMRInstructor\git\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
